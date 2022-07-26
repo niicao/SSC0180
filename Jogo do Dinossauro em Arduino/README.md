@@ -4,3 +4,6 @@ O botão no circuito, ao ser ativado faz com que o jogador pule. O jogador é re
 Caso o jogador não consiga desviar, todos os LEDs acendem, indicando que o jogador perdeu.
 ### Circuito
 ![alt-text](https://github.com/niicao/SSC0180/blob/main/Jogo%20do%20Dinossauro%20em%20Arduino/photo_5098479016666573461_y.jfif)
+
+### Foto do Circuito
+![alt-text](https://github.com/niicao/SSC0180/blob/main/Jogo%20do%20Dinossauro%20em%20Arduino/photo_5113916744036100610_y.jfif)
