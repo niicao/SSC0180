@@ -7,3 +7,6 @@ Caso o jogador não consiga desviar, todos os LEDs acendem, indicando que o joga
 
 ### Foto do Circuito
 ![alt-text](https://github.com/niicao/SSC0180/blob/main/Jogo%20do%20Dinossauro%20em%20Arduino/photo_5113916744036100610_y.jfif)
+
+### Link do Video Explicativo no Youtube
+https://youtu.be/XGEVbhrv1NQ
