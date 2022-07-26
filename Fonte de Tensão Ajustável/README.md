@@ -47,3 +47,6 @@ Link da simulação: https://tinyurl.com/falstadsimulation
 
 ## Link do vídeo mostrando o funcionamento do Projeto
 https://youtube.com/shorts/qIeeHs1mvvo?feature=share
+
+## Calculos
+![alt-text](https://github.com/niicao/SSC0180/blob/main/Fonte%20de%20Tens%C3%A3o%20Ajust%C3%A1vel/calculos.jpeg)
